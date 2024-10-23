@@ -1,6 +1,6 @@
 ### Hi there, I am Darshil Patel 👋
 
-Check out my website: [darshil580.github.io](https://darshil580.github.io/).
+<!-- Check out my website: [darshil580.github.io](https://darshil580.github.io/). -->
 
 <!-- <img src="https://github.com/deep-adeshraa/deep-adeshraa/blob/master/banner.png" /> -->
  <p>
